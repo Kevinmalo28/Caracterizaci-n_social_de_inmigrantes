@@ -1,4 +1,4 @@
-** Las fechas de mayor movilidad humana
+--Las fechas de mayor movilidad humana
 
 SELECT FECHA_INGRESO,
 	COUNT(FECHA_INGRESO) CANTIDAD 
