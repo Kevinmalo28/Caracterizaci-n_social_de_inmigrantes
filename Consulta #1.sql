@@ -1,4 +1,4 @@
-**Un listado de los inmigrantes por nacionalidades, presentando de mayor a menor el que paÃ­s presenta un mayor n�mero de inmigrantes
+--Un listado de los inmigrantes por nacionalidades, presentando de mayor a menor el que paÃƒÂ­s presenta un mayor número de inmigrantes
 
 SELECT NACIONALIDAD, 
 	COUNT(NACIONALIDAD) CANTIDAD 
